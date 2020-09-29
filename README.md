@@ -11,8 +11,8 @@
 
 Диаграмма классов: 
 
-![None](*url картинки*)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba1/class%20diagram.png)
 
 Диаграмма прецедентов : 
 
-![None](*url картинки*)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba1/usecase%20dia.png)
