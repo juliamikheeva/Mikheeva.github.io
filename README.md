@@ -39,6 +39,6 @@
 
 ## Лабораторная работа №3
 
-Диаграмма последовательности:
+Диаграмма последовательности: #https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма%20последоват..txt
 
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма%202.png)
