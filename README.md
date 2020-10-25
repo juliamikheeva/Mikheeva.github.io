@@ -26,7 +26,7 @@
 
 Рисунок диаграммы PDC:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/pdc.PNG)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/PDC1.PNG)
 
 Пример диаграммы DFD с 4 программными модулями и 2 таблицами:
 
