@@ -35,3 +35,10 @@
 Диаграмма прецедентов:
 
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/диаграмма.png)
+
+
+## Лабораторная работа №3
+
+Диаграмма прецедентов:
+
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма%202.png)
