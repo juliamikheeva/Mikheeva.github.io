@@ -16,3 +16,14 @@
 Диаграмма прецедентов : 
 
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba1/usecase%20dia.png)
+
+
+## Лабораторная работа №1
+
+Контекстная:
+
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/контекст.PNG)
+
+Рисунок диаграммы PDC:
+
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/2.PNG)
