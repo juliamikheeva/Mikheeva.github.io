@@ -18,7 +18,7 @@
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba1/usecase%20dia.png)
 
 
-## Лабораторная работа №1
+## Лабораторная работа №2
 
 Контекстная:
 
