@@ -26,4 +26,4 @@
 
 Рисунок диаграммы PDC:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/2.PNG)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/pdc.PNG)
