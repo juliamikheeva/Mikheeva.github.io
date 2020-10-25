@@ -39,6 +39,6 @@
 
 ## Лабораторная работа №3
 
-Диаграмма прецедентов:
+Диаграмма последовательности:
 
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма%202.png)
