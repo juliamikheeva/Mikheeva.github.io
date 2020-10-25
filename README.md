@@ -31,3 +31,7 @@
 Пример диаграммы DFD с 4 программными модулями и 2 таблицами:
 
 ![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/dfd.PNG)
+
+Диаграмма прецедентов:
+
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/диаграмма.png)
