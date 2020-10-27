@@ -9,4 +9,4 @@
 
 ## [Отчет](https://github.com/juliamikheeva/Mikheeva.github.io/wiki/Отчет-4-6) по лабораторным работам 4-6
 
-## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam10-1) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam08-1)
+## Рефераты: [разработанный]() и [проверенный]()
