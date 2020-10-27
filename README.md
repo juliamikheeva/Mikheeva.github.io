@@ -42,7 +42,7 @@ A2 Программист получает требования к разраб�
 
 Диаграмма прецедентов:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/диаграмма.png)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/диаграмма1.png)
 
 
 ## Лабораторная работа №3
