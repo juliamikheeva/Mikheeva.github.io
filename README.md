@@ -22,7 +22,7 @@
 
 Контекстная:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/контекст.PNG)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba1/01_A0.png)
 
 Рисунок диаграммы PDC:
 
