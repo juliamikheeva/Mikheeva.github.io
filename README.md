@@ -26,11 +26,10 @@
 
 Рисунок диаграммы PDC:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/PDC1.PNG)
-
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/02_A0.png)
 Пример диаграммы DFD с 4 программными модулями и 2 таблицами:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/dfd.PNG)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba2/03_A1.png)
 
 Диаграмма прецедентов:
 
