@@ -49,7 +49,7 @@ A2 Программист получает требования к разраб�
 
 Диаграмма последовательности:
 
-![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма%202.png)
+![None](https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/laba3/диаграмма2.png)
 
 ERD-диаграмма 
 
