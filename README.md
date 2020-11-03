@@ -5,7 +5,7 @@
 
 ## [Отчет](https://github.com/juliamikheeva/Mikheeva.github.io/wiki/Лабораторные-работы-1-3) по лабораторным работам 1-3
 
-## Домашние задания по [семинарам 3-4](https://github.com/AirNus/AirNus.github.io/wiki/Business-game)
+## Домашние задания по [семинарам 3-4](https://github.com/juliamikheeva/Mikheeva.github.io/wiki/3-4)
 
 ## [Отчет](https://github.com/juliamikheeva/Mikheeva.github.io/wiki/Отчет-4-6) по лабораторным работам 4-6
 
