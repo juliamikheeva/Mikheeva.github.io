@@ -1,0 +1,39 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+left to right direction
+
+actor "Гость"
+actor "Администратор"
+actor "Контент-менеджер" as us1
+
+
+usecase case1 as "Вход пользователя на сайт"
+usecase case3 as "Просмотр основных разделов"
+usecase case4 as "Просмотр слайдера"
+usecase case5 as "Просмотр новостей"
+usecase case6 as "Переход по активным ссылкам"
+usecase case7 as "Переход на подразделы"
+usecase case8 as "Просмотр информации"
+usecase case9 as "Вход администратора на сайт"
+usecase case10 as "Вход контент-менеджера на сайт"
+usecase case11 as "Добавление информации на сайт"
+usecase case12 as "Изменение информации на сайте"
+usecase case13 as "Модерация комментариев"
+usecase case14 as "Переход на архив новостей"
+
+Гость --> case1
+Администратор --> case9 
+case9 --> case12
+case9 --> case13
+case1 --> case3
+case1 --> case4
+case1 --> case5
+case1 --> case6
+case1 --> case7
+case1 --> case8
+us1 --> case10
+case10 --> case11
+case5 --> case14
+@enduml
