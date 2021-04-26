@@ -1,0 +1,37 @@
+@startuml
+skinparam monochrome true
+
+actor Администартор as adm
+actor Контент-менеджер as cont
+actor Гость as gost
+participant Сайт as int
+database База данных WP as bd
+
+
+cont - int  Добавление информации
+activate int
+int - bd  Запись информации в БД
+activate bd
+bd - int  Записанная информация в БД
+activate bd
+int - cont  Информация о добавлении
+
+adm - int  Изменение информации
+activate int
+int - bd  Запись измененной информации в БД
+activate bd
+bd - int  Записанная информация в БД
+activate int
+int - adm  Информация об изменении
+
+gost - int  Запрос на просмотр информации
+activate int
+int - bd  Запрос на информацию
+activate bd
+bd - int  Информация
+activate int
+
+
+int - gost  Информация
+deactivate int
+@enduml
