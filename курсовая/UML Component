@@ -1,0 +1,15 @@
+@startuml
+skinparam monochrome true
+
+component [Сайт КССЦР] as DB
+component [Информационная система] as IS
+component [Устройства отображения информации] as HMD
+
+() "LAN" as L
+() "HTTP API" as File
+
+DB - File
+File - IS
+IS - L
+L - HMD
+@enduml
